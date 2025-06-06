@@ -28,7 +28,7 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_learning: ["React, Node.js, and React Native"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 ```
 
