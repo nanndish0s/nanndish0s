@@ -8,7 +8,8 @@
 </a>
 
 
-🧑‍💻**A Little Bit About Me and My Interests**
+<h3>🧑‍💻**A Little Bit About Me and My Interests**</h3>
+
 ```yaml
 name: Nanndish Satgunarajah
 located_in: Colombo, Sri Lanka
