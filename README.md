@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20There&fontSize=90)
 
-<h1 text-align="center">Let's connect and have a chat 💬</h1>
+<h1>Let's connect and have a chat 💬</h1>
 
 
 <a href="https://www.linkedin.com/in/nanndish/">
