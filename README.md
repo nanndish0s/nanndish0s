@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20There&fontSize=90)
 
+<h1 text-align="center">Let's connect and have a chat 💬</h1>
+
+
 <a href="https://www.linkedin.com/in/nanndish/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 
-<h1>Let's connect and have a chat 💬</h1>
 
 🧑‍💻**A Little Bit About Me and My Interests**
 ```yaml
