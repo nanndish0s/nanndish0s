@@ -4,6 +4,29 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 
+```yaml
+name: Nanndish Satgunarajah
+located_in: Colombo, Sri Lanka
+education:
+  [
+    "Software Engineering Undergraduate",
+  ]
+
+fields_of_interests:
+  [
+    "Full-Stack Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Web 3",
+    "DevOps",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+```
+
+
 <!--
 **nanndish0s/nanndish0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
