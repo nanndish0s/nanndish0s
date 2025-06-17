@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20There&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hello%20There&fontSize=90)
 
 <h1>Let's connect and have a chat 💬</h1>
 
