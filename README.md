@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hi%20there,%20I'm%20Nanndish%20Satgunarajah%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hi%20there,%20I'm%20Nanndish&fontSize=90)
 
 <h1>Let's connect and have a chat 💬</h1>
 
