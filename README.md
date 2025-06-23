@@ -11,6 +11,10 @@
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>
 </a>
 
+<a href="https://drive.google.com/file/d/1KbM2CFbEh1i77-qcuNIf-V0QQn-h4g9u/view?usp=sharing">
+  Download Resume
+</a>
+
 
 <h3>🧑‍💻A Little Bit About Me and My Interests</h3>
 
