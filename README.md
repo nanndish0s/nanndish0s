@@ -2,6 +2,9 @@
 
 <h1>Let's connect and have a chat 💬</h1>
 
+<a href="https://drive.google.com/file/d/1KbM2CFbEh1i77-qcuNIf-V0QQn-h4g9u/view?usp=sharing">
+  Download Resume
+</a>
 
 <a href="https://www.linkedin.com/in/nanndish/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -9,10 +12,6 @@
 
 <a href="mailto:nanndish.s@gmail.com">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1KbM2CFbEh1i77-qcuNIf-V0QQn-h4g9u/view?usp=sharing">
-  Download Resume
 </a>
 
 
