@@ -2,7 +2,7 @@
 
 <h1>Let's connect and have a chat 💬</h1>
 
-<a href="https://drive.google.com/file/d/1KbM2CFbEh1i77-qcuNIf-V0QQn-h4g9u/view?usp=sharing">
+<a href="https://drive.google.com/file/d/18jidoGky-_xYCgRYe9vQ_xzlJQhGjxXL/view?usp=sharing">
   Download Resume
 </a>
 
