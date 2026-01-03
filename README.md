@@ -24,12 +24,12 @@ name: Nanndish Satgunarajah
 located_in: Colombo, Sri Lanka
 education:
   [
-    "Software Engineering Undergraduate",
+    "Software Engineering Intern",
   ]
 
 fields_of_interests:
   [
-    "Full-Stack Web Development",
+    "Full Stack Development",
     "Data Science",
     "Machine Learning",
     "UI/UX",
@@ -37,8 +37,8 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["React, Node.js, and React Native"]
-2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+currently_learning: ["React and Spring Boot"]
+2026 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learnt</h2>
@@ -48,6 +48,7 @@ currently_learning: ["React, Node.js, and React Native"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
